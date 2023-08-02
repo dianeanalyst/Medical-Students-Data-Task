@@ -36,3 +36,6 @@ A data visualization class came after we were taught how to create pivot tables 
 ![image](https://github.com/dianeanalyst/Medical-Students-Data-Task/assets/120665115/619e85fc-9c41-411d-8765-94e1829e1cbc)
 ![image](https://github.com/dianeanalyst/Medical-Students-Data-Task/assets/120665115/0d559c3f-d70a-4b7a-a9f9-85e0d7abf676)
 ![image](https://github.com/dianeanalyst/Medical-Students-Data-Task/assets/120665115/a857b48e-2cc6-41e6-a8af-e954534c987b)
+
+# Conclusion
+Data alone conveys no information until it is analysed. Being able to work with data to summarize and obtain useful information with it is very crucial to making guided business decisions. I will love to try my hands on more data to strengthen my skills with this added knowledge. 
